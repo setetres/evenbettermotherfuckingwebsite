@@ -1,4 +1,4 @@
-Even better motherfucking website
+Even Better Motherfucking Website
 =================================
 
 It's even more fucking perfect than the others motherfucking websites.
@@ -8,7 +8,7 @@ It's even more fucking perfect than the others motherfucking websites.
 License
 -------
 
-EBMFW is under a [Creative Commons Attribution License].
+Even Better Motherfucking Website is under a [Creative Commons Attribution License].
 
 -------
 
