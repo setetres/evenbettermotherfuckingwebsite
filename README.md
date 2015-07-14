@@ -3,7 +3,7 @@ Even Better Motherfucking Website
 
 It's even more fucking perfect than the others motherfucking websites.
 
-![EBMFW](http://files.setetres.st/img/ebmfw-header.gif?v=1.1&raw=true)
+![EBMFW](http://files.setetres.st/img/ebmfw-header.gif?v=2&raw=true)
 
 License
 -------
