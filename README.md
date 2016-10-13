@@ -1,4 +1,4 @@
-Even Better Motherfucking Website [![Github License](https://img.shields.io/github/license/setetres/evenbettermotherfuckingwebsite.svg)](https://raw.githubusercontent.com/setetres/evenbettermotherfuckingwebsite/master/LICENSE)
+Even Better Motherfucking Website [![Github License](https://img.shields.io/github/license/setetres/evenbettermotherfuckingwebsite.svg)](https://github.com/setetres/evenbettermotherfuckingwebsite/blob/master/LICENSE)
 =================================
 
 This is an even better motherfucking website. [http://evenbettermotherfucking.website]
