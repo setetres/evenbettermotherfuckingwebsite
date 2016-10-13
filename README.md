@@ -3,7 +3,7 @@ Even Better Motherfucking Website [![Github License](https://img.shields.io/gith
 
 This is an even better motherfucking website. [http://evenbettermotherfucking.website]
 
-![evenbettermotherfuckingwebsite](http://files.setetres.st/img/evenbettermotherfuckingwebsite-desktop.png?v=2&raw=true)
+[![evenbettermotherfuckingwebsite](http://files.setetres.st/img/evenbettermotherfuckingwebsite-desktop.png?v=2&raw=true)](http://evenbettermotherfucking.website)
 
 License
 -------
