@@ -10,8 +10,5 @@ License
 
 -------
 
-A [Seventy Three] Project.
-
-[Seventy Three]: http://setetres.st
 [http://evenbettermotherfucking.website]: http://evenbettermotherfucking.website
 [CC-BY-4.0]: http://creativecommons.org/licenses/by/4.0
