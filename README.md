@@ -1,7 +1,9 @@
-| [![evenbettermotherfuckingwebsite](http://setetres.s3.amazonaws.com/setetres.st/img/share-ebmfw.png?v=3&raw=true)](http://evenbettermotherfucking.website) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+# evenbettermotherfuckingwebsite
 
 [![Github License](https://img.shields.io/github/license/setetres/evenbettermotherfuckingwebsite.svg)](https://github.com/setetres/evenbettermotherfuckingwebsite/blob/master/LICENSE)
+
+| [![evenbettermotherfuckingwebsite](http://setetres.s3.amazonaws.com/setetres.st/img/share-ebmfw.png?v=4&raw=true)](http://evenbettermotherfucking.website) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 License
 -------
