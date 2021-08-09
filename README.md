@@ -8,7 +8,7 @@
 License
 -------
 
-[CC-BY-4.0]
+[GPL-3.0]
 
 [http://evenbettermotherfucking.website]: http://evenbettermotherfucking.website
-[CC-BY-4.0]: http://creativecommons.org/licenses/by/4.0
+[GPL-3.0]: https://opensource.org/licenses/GPL-3.0
